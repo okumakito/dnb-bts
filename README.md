@@ -1,5 +1,7 @@
 # dnb-bts
-This repository will provide source codes used in a work on analysis of gene expression profiles in mice administered BTS. The source codes will be uploaded after the paper is accepted and published.
+This repository provides source codes used in the following work.
+
+* K. Koizumi, M. Oku, S. Hayashi, A. Inujima, N. Shibahara, L. Chen, Y. Igarashi, K. Tobe, S. Saito, M. Kadowaki, and K. Aihara: Suppression of dynamical network biomarker signals at the pre-disease state (Mibyou) before metabolic syndrome in mice by a traditional Japanese medicine (Kampo formula) bofutsushosan, eCAM, 2020:9129134 (2020). https://doi.org/10.1155/2020/9129134
 
 ## Requirements
 
